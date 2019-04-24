@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Kwitter</string>
+    <string name="authority">io.navendra.kwitter.wordcontentprovider.provider</string>
 </resources>
